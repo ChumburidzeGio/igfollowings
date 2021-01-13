@@ -1,0 +1,27 @@
+>>> Подписаться / Отписаться / POST:
+https://www.instagram.com/web/friendships/7692311/unfollow/
+https://www.instagram.com/web/friendships/7692311/follow/
+
+>>> nFollowers:
+    Instagram
+    - Unfollowers
+    - With His Eyes
+    - ER / Likes From
+    - Automate
+    - Finder
+        geo,
+        tags,
+        hashtags,
+        in text,
+        followed by,
+        is folllowing,
+        № of photos,
+        № of followers,
+        № of follows,
+        № of likes/post,
+        № of ER (slower?)
+        circle >= 3 (ME - 1 - 2 - 3)
+
+        not bot,
+        gender,
+        language,
